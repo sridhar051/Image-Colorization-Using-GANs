@@ -87,8 +87,6 @@ The performance of the model is evaluated using:
   - **PSNR (Peak Signal-to-Noise Ratio)**: Measures the similarity between the original and colorized images.
   - **SSIM (Structural Similarity Index)**: Evaluates the structural similarity between images.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - We would like to acknowledge **Vast.ai** for providing the GPU instance for model training.
